@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CardsAP'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Awesome iOS 11 appstore cards in swift 4.'
   s.homepage         = 'https://github.com/andreperegrina/CardsAP'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
