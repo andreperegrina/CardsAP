@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CardsAP_Tests' do
+  pod 'CardsAP', :path => '../'
+  
+  
+end
