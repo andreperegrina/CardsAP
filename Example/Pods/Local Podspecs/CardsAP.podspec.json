@@ -1,0 +1,22 @@
+{
+  "name": "CardsAP",
+  "version": "0.1.0",
+  "summary": "A short description of CardsAP.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/andre.peregrina@gmail.com/CardsAP",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "andre.peregrina@gmail.com": "andre.p23@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/andre.peregrina@gmail.com/CardsAP.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CardsAP/Classes/**/*"
+}

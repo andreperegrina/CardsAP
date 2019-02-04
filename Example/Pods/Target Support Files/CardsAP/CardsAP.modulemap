@@ -1,0 +1,6 @@
+framework module CardsAP {
+  umbrella header "CardsAP-umbrella.h"
+
+  export *
+  module * { export * }
+}
